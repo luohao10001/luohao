@@ -6,4 +6,4 @@ https:\/\/mobile01\.91quzou\.com\/rebate\/qz\/task\/homeTaskView\.do url script-
 https:\/\/mk\.immomo\.com\/activity\/fastsign\/index\/signIn? url script-request-body https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js
 
 #音乐打卡
-https:\/\/www\.baimaa\.com\/* url script-request-header https://raw.githubusercontent.com/luohao10001/luohao/master/yydaka.js
+https:\/\/www\.baimaa\.com\/* url script-request-header https://raw.githubusercontent.com/luohao10001/luohao/master/yydkziye.js
