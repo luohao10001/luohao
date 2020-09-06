@@ -1,5 +1,6 @@
-hostname = mobile01.91quzou.com
+hostname = mobile01.91quzou.com,mk.immomo.com
 #趣走
 ^https:\/\/mobile01\.91quzou\.com\/rebate\/qz\/task\/homeTaskView\.do url script-request-header https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js
 
-#
+#陌陌极速版
+^https:\/\/mk\.immomo\.com\/activity\/fastsign\/index\/signIn? url script-request-body https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js
