@@ -16,6 +16,42 @@
   options:
     url: https://lisondawang.tk/jiedianfenxiang.html
 
+- type: webfuzz
+  options:
+    url: https://usky.ml/tool/free_ssr
+
+- type: webfuzz
+  options:
+    url: https://www.freefq.com/d/file/v2ray/20201014/3de00451573fe10eb58cbc082f123737.htm
+
+- type: webfuzz
+  options:
+    url: https://www.freefq.com/d/file/free-ssr/20201014/1411c73e72c471023748f043adb35ff8.htm
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
 # tg频道抓取
 - type: tgchannel
   options:
