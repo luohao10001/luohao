@@ -34,7 +34,7 @@
 
 - type: webfuzz
   options:
-    url:
+    url: https://free-ss.site/
 
 - type: webfuzz
   options:
