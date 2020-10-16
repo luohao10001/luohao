@@ -116,12 +116,12 @@
 
 - type: tgchannel
   options:
-    channel:
+    channel: SSRSUB
     num: 200
 
 - type: tgchannel
   options:
-    channel:
+    channel: lRANSSR
     num: 200
 
 - type: tgchannel
