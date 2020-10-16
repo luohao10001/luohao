@@ -106,7 +106,7 @@
 
 - type: tgchannel
   options:
-    channel:
+    channel: ShadowsocksRssr
     num: 200
 
 - type: tgchannel
