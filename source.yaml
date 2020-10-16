@@ -1,8 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/luohao10001/hello-world/master/sub.list?token=ANH54MAIVATAUOHLCRDU5YC7RFU4S
-
+    url: https://raw.githubusercontent.com/luohao10001/luohao/master/sub.list
 # 订阅链接
 - type: subscribe
   options:
