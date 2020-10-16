@@ -9,7 +9,7 @@
 
 # 网页模糊抓取
 - type: webfuzz
-  options:
+  options: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/README.md
     url:
 
 # tg频道抓取
