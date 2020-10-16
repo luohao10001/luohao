@@ -30,6 +30,42 @@
 
 - type: webfuzz
   options:
+    url: https://m.ssrtool.us/free_ssr
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
+    url:
+
+- type: webfuzz
+  options:
     url:
 
 - type: webfuzz
