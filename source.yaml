@@ -111,7 +111,7 @@
 
 - type: tgchannel
   options:
-    channel:
+    channel: V2List
     num: 200
 
 - type: tgchannel
