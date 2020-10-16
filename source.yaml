@@ -42,7 +42,7 @@
 
 - type: webfuzz
   options:
-    url:
+    url: https://lncn.org/
 
 - type: webfuzz
   options:
