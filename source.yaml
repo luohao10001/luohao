@@ -5,3 +5,6 @@
 - type: subscribe
   options:
     url: https://pnb52.herokuapp.com/clash/proxies
+- type: webfuzz
+  options:
+    url: https://pnb52.herokuapp.com/clash/proxies
