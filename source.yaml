@@ -2,3 +2,6 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/luohao10001/luohao/master/sub.list
+- type: subscribe
+  options:
+    url: https://goyywp.xyz/clash/provider-us.yaml
