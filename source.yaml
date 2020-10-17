@@ -46,7 +46,7 @@
 
 - type: webfuzz
   options:
-    url:
+    url: https://merlinblog.xyz/wiki/freess.html
 
 - type: webfuzz
   options:
