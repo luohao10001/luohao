@@ -5,7 +5,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url:
+    url: https://raw.githubusercontent.com/shunfengziyuan/DY-Clash/main/fast-clash-1017.yml
 
 # 网页模糊抓取
 - type: webfuzz
