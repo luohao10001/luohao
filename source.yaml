@@ -38,7 +38,7 @@
 
 - type: webfuzz
   options:
-    url:
+    url: https://fanqiang.network/
 
 - type: webfuzz
   options:
@@ -50,7 +50,7 @@
 
 - type: webfuzz
   options:
-    url:
+    url: https://fanqiang.network/free-v2ray
 
 - type: webfuzz
   options:
