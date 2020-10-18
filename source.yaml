@@ -38,7 +38,7 @@
 
 - type: webfuzz
   options:
-    url: https://youtu.be/PQuSHYalV_w
+    url:
 
 - type: webfuzz
   options:
