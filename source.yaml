@@ -157,6 +157,31 @@
 
 - type: tgchannel
   options:
+    channel: subssr
+    num: 200
+
+- type: tgchannel
+  options:
+    channel:
+    num: 200
+
+- type: tgchannel
+  options:
+    channel:
+    num: 200
+
+- type: tgchannel
+  options:
+    channel:
+    num: 200
+
+- type: tgchannel
+  options:
+    channel:
+    num: 200
+
+- type: tgchannel
+  options:
     channel:
     num: 200
 
