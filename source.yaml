@@ -7,6 +7,22 @@
   options:
     url: https://raw.githubusercontent.com/shunfengziyuan/DY-Clash/main/fast-clash-1017.yml
 
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks20201019
+
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocksR20201019
+
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/v2ray20201019
+
+- type: subscribe
+  options:
+    url: 
+
 # 网页模糊抓取
 - type: webfuzz
   options:
