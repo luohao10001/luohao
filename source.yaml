@@ -162,7 +162,7 @@
 
 - type: tgchannel
   options:
-    channel:
+    channel: baipiaojiedian
     num: 200
 
 - type: tgchannel
