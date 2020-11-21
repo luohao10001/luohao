@@ -21,6 +21,22 @@
 
 - type: subscribe
   options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/README.md
+
+- type: subscribe
+  options:
+    url: 
+
+- type: subscribe
+  options:
+    url: 
+
+- type: subscribe
+  options:
+    url: 
+
+- type: subscribe
+  options:
     url: 
 
 # 网页模糊抓取
