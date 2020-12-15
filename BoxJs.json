@@ -1,7 +1,7 @@
 {
-  "id": "whyour.app.sub",
-  "name": "whyour应用订阅",
-  "author": "@whyour",
+  "id": "luohao10001.app.sub",
+  "name": "luohao10001应用订阅",
+  "author": "@luohao10001",
   "icon": "https://avatars2.githubusercontent.com/u/22700758?s=88&u=26d911ccb8345dac955238c2ed6c572892ef924a&v=4",
   "repo": "https://github.com/luohao10001/luohao",
   "apps": [
@@ -92,7 +92,7 @@
            "desc": "京喜工厂互助码.你自己的互助码."		
          }		
        ],		
-       "author": "@whyour",		
+       "author": "@luohao10001",		
        "repo": "https://github.com/luohao10001/luohao/blob/master/shareCode-auto.js",		
        "script": "https://raw.githubusercontent.com/luohao10001/luohao/master/shareCode-auto.js",		
        "icons": [		
