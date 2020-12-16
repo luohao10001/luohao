@@ -5,7 +5,7 @@
   "icon": "",
   "repo": "https://github.com/luohao10001/luohao",
 
-  "apps": [		   "apps": [
+  "apps": [
      {		
        "id": "shareCode",		
        "name": "互助码",		
