@@ -19,6 +19,10 @@
     channel: ssrList
     num: 200
 
+- type: tgchannel
+  options:
+    channel: baipiaofuli
+    num: 200
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
