@@ -27,7 +27,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://github.com/shunfengziyuan/DY-Clash/raw/main/0103-fast-clash-th.yml
+    url:
 
 # 某个网站抓取
 - type: web-freessrxyz
