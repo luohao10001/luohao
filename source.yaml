@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/luohao10001/luohao/master/sub.list
+    url:
 
 # 订阅链接
 - type: subscribe
