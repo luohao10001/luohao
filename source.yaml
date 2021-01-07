@@ -21,7 +21,7 @@
 
 - type: tgchannel
   options:
-    channel: baipiaofuli
+    channel: 
     num: 200
     
 # 翻墙党论坛抓取
