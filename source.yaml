@@ -5,12 +5,12 @@
 
 # 订阅链接
 - type: subscribe
-  options: https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/README.md
+  options:
     url: 
 
 # 网页模糊抓取
 - type: webfuzz
-  options:
+  options: https://github.com/JACKUSR2089/v2ray-subscribed/blob/master/README.md
     url: 
 
 # tg频道抓取
