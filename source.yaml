@@ -32,7 +32,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url:
+    url: https://proxypoolss.tk/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz
