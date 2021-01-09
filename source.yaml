@@ -57,7 +57,7 @@
 
 - type: clash
   options:
-    url: https://gitea.com/proxypools/sub/src/commit/8e89be7f28f5e6440dede6ec986b04e0cdbe6617/clash/clash.yaml
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 
 # 某个网站抓取
 - type: web-freessrxyz
