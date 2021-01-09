@@ -49,7 +49,7 @@
 
 - type: clash
   options:
-    url: 
+    url: https://gooii.ml/clash/0106-3085.yml
 
 - type: clash
   options:
