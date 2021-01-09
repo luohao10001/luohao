@@ -12,11 +12,114 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/README.md
+- type: webfuzz
+  options:
+    url: https://lisondawang.tk/jiedianfenxiang.html
+
+- type: webfuzz
+  options:
+    url: https://usky.ml/tool/free_ssr
+
+- type: webfuzz
+  options:
+    url: https://www.freefq.com/d/file/v2ray/20201014/3de00451573fe10eb58cbc082f123737.htm
+
+- type: webfuzz
+  options:
+    url: https://www.freefq.com/d/file/free-ssr/20201014/1411c73e72c471023748f043adb35ff8.htm
+
+- type: webfuzz
+  options:
+    url: https://m.ssrtool.us/free_ssr
+
+- type: webfuzz
+  options:
+    url: https://free-ss.site/
+
+- type: webfuzz
+  options:
+    url: https://fanqiang.network/
+
+- type: webfuzz
+  options:
+    url: https://lncn.org/
+
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://fanqiang.network/free-v2ray
 
 # tg频道抓取
 - type: tgchannel
   options:
     channel: baipiaofuli
+    num: 200
+- type: tgchannel
+  options:
+    channel: ssrshare
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: Xinana_awsl
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: baipiaofenxiang
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ShadowsocksRssr
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: lRANSSR
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ivmess
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: cnhumanright99
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: subssr
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: sharecentre
     num: 200
 
 - type: tgchannel
