@@ -39,6 +39,25 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0107clash.yml
+- type: clash
+  options:
+    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fxiaoyaoniubi.netlify.app&insert=false&config=https%3A%2F%2Fsubconverter.oss-ap-southeast-1.aliyuncs.com%2FRules%2FRemoteConfig%2Fspecial%2Fbasic.ini
+
+- type: clash
+  options:
+    url: 
+
+- type: clash
+  options:
+    url: 
+
+- type: clash
+  options:
+    url: 
+
+- type: clash
+  options:
+    url: 
 
 # 某个网站抓取
 - type: web-freessrxyz
