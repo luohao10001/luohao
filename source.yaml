@@ -21,7 +21,7 @@
 
 - type: tgchannel
   options:
-    channel: 
+    channel: proxypools
     num: 200
 
 - type: tgchannel
@@ -57,7 +57,7 @@
 
 - type: clash
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
+    url:
 - type: clash
   options:
     url: https://raw.githubusercontent.com/shunfengziyuan/DY-Clash/main/0103-fast-clash-th.yml
