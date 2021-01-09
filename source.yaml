@@ -34,6 +34,71 @@
 
 - type: tgchannel
   options:
+    channel: ssrshare
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: Xinana_awsl
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: baipiaofenxiang
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ShadowsocksRssr
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: lRANSSR
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ivmess
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: cnhumanright99
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: subssr
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: sharecentre
+    num: 200
+
+- type: tgchannel
+  options:
     channel: 
     num: 200
 
