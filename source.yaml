@@ -22,6 +22,12 @@
   options:
     channel: proxypools
     num: 200
+
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
