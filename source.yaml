@@ -18,7 +18,7 @@
     url: https://merlinblog.xyz/wiki/freess.html
 - type: webfuzz
   options:
-    url: https://lisondawang.tk/jiedianfenxiang.html
+    url:
 
 - type: webfuzz
   options:
