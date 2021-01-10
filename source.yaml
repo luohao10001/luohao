@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url:
+    url: 
 
 # 订阅链接
 - type: subscribe
@@ -11,191 +11,23 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/README.md
-
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-- type: webfuzz
-  options:
-    url:
-
-- type: webfuzz
-  options:
-    url: https://usky.ml/tool/free_ssr
-
-- type: webfuzz
-  options:
-    url:
-
-- type: webfuzz
-  options:
-    url:
-
-- type: webfuzz
-  options:
-    url: https://m.ssrtool.us/free_ssr
-
-- type: webfuzz
-  options:
-    url: https://free-ss.site/
-
-- type: webfuzz
-  options:
-    url: https://fanqiang.network/
-
-- type: webfuzz
-  options:
-    url: https://lncn.org/
-
-- type: webfuzz
-  options:
-    url: https://fanqiang.network/free-v2ray
-- type: webfuzz
-  options:
-    url:
+    url: 
 
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: baipiaofuli
+    channel: ssrList
     num: 200
 
-- type: tgchannel
-  options:
-    channel: proxypools
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrshare
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: Xinana_awsl
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: baipiaofenxiang
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ShadowsocksRssr
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: SSRSUB
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: lRANSSR
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ivmess
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: cnhumanright99
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: subssr
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: baipiaojiedian
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: sharecentre
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: 
-    num: 200
-
-    
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
     url: 
-    
+
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0107clash.yml
-- type: clash
-  options:
-    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fxiaoyaoniubi.netlify.app&insert=false&config=https%3A%2F%2Fsubconverter.oss-ap-southeast-1.aliyuncs.com%2FRules%2FRemoteConfig%2Fspecial%2Fbasic.ini
-
-- type: clash
-  options:
-    url: https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Flove.dingyu.cf%2Fxyhfxmsnb&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
-
-- type: clash
-  options:
-    url: https://gooii.ml/clash/0106-3085.yml
-
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-
-- type: clash
-  options:
-    url: https://proxypoolss.tk/clash/proxies
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/shunfengziyuan/DY-Clash/main/0103-fast-clash-th.yml
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
-
-- type: clash
-  options:
-    url: 
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 
 # 某个网站抓取
 - type: web-freessrxyz
