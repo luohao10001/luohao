@@ -164,7 +164,7 @@
 
 - type: clash
   options:
-    url:
+    url: https://proxypoolss.tk/clash/proxies
 - type: clash
   options:
     url: https://raw.githubusercontent.com/shunfengziyuan/DY-Clash/main/0103-fast-clash-th.yml
