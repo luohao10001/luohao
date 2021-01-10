@@ -6,7 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: 
+    url: https://proxypoolss.tk/trojan/sub
 
 # 网页模糊抓取
 - type: webfuzz
