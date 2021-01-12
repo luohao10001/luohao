@@ -37,6 +37,21 @@
 - type: clash
   options:
     url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
+- type: clash
+  options:
+    url: https://gooii.ml/clash/0111-2985.yml
+
+- type: clash
+  options:
+    url: 
+
+- type: clash
+  options:
+    url: 
+
+- type: clash
+  options:
+    url: 
 
 # 某个网站抓取
 - type: web-freessrxyz
