@@ -1,0 +1,14 @@
+bot_token: 1613360916:AAGqI-NVmaMTuW1-0GqKoX4CQwaF2pYldRg/
+#socks5: 127.0.0.1:1080
+bindmax: 3
+admin: 1101443364
+errlimit: 5
+notice: "aaa\nbbb"
+cron: "1 */3 * * *"
+#docker部署默认无需修改mysql配置
+mysql:
+  host: mysql
+  port: 3306
+  user: root
+  password: root
+  database: e5sub
