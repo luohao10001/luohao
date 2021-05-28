@@ -1,0 +1,10 @@
+proxies:
+
+
+  - {"type":"http","name":"一键连","server":"a1.ap.fastqvpn.com","port":"29980","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"a1.ap.fastqvpn.com","skip-cert-verify":true}
+  - {"type":"http","name":"日本","server":"ap1-jp.er3.xyz","port":"29985","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-jp.er3.xyz","skip-cert-verify":true}
+  - {"type":"http","name":"美国","server":"ap1-us.er3.xyz","port":"29988","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-us.er3.xyz","skip-cert-verify":true}
+  - {"type":"http","name":"德国","server":"ap1-sg.er3.xyz","port":"29984","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-sg.er3.xyz","skip-cert-verify":true}
+  - {"type":"http","name":"英国","server":"ap1-uk.er3.xyz","port":"29987","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-uk.er3.xyz","skip-cert-verify":true}
+  - {"type":"http","name":"加拿大","server":"ap1-uk.er3.xyz","port":"29983","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-uk.er3.xyz","skip-cert-verify":true}
+  - {"type":"http","name":"澳大利亚","server":"ap1-uk.er3.xyz","port":"29982","tls":true,"udp":false,"tfo":false,"username":"434616203453923328","password":"97ca79e7-d994-47c2-a5ba-cb3569f6bf04","sni":"ap1-uk.er3.xyz","skip-cert-verify":true}
