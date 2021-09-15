@@ -370,7 +370,7 @@ def ql_insert(i_ck):
 def cloud_info():
     cloud_bool = False
     url = str(base64.b64decode(
-        'aHR0cHM6Ly9oZWxsb2Rucy5jb2RpbmcubmV0L3Avc2lnbi9kL2pzaWduL2dpdC9yYXcvbWFzdGVyL2NoZWNrX2FwaQ==').decode())
+        'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x1b2hhbzEwMDAxL2x1b2hhby9tYXN0ZXIvY2hlY2tfYXBp').decode())
     for i in range(3):
         try:
             res = requests.get(url=url, verify=False, timeout=20).text
