@@ -1,17 +1,23 @@
 proxies:
-  - {name: 🇯🇵 台湾 VIP03 | B 5x IEPL NF 日常用途, server: iplc-dasdghauo.xyx-xy-01.com, port: 25000, type: vmess, uuid: 8d1f6615-b7b8-3302-9076-9f3e9b12d53e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇺🇲 美国 VIP2 D | 1.5x NF 上海, server: qd-lt-01.xyx-xy-01.com, port: 10015, type: vmess, uuid: 8d1f6615-b7b8-3302-9076-9f3e9b12d53e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇯🇵 日本 VIP02 10 | 2x 200M NF, server: sh2aha.ahis.asixx.xyx-xy-01.com, port: 25000, type: vmess, uuid: 8d1f6615-b7b8-3302-9076-9f3e9b12d53e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: pgc.qcdn.xiaodutv.com}}
-  - {name: 🇺🇲 美国 VIP1 F | 2x NF, server: usvip2.xyx-xy-01.com, port: 10013, type: vmess, uuid: 8d1f6615-b7b8-3302-9076-9f3e9b12d53e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: www.bing.com}}
-  - {name: 🇺🇲 美国 VIP1 B | 1x 直连, server: us11.omo-m0m.com, port: 18181, type: vmess, uuid: 8d1f6615-b7b8-3302-9076-9f3e9b12d53e, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /api, ws-headers: {Host: www.bing.com}}
-  - {name: 🇭🇰 香港11-广州中转, server: gz.shu.miao.rest, port: 54989, type: vmess, uuid: e872291c-e853-41d2-ac6c-2bad2539a274, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: edith.xiaohongshu.com}}
-  - {name: 🇯🇵 日本07-直连免流, server: jp2.ml.miao.rest, port: 80, type: vmess, uuid: e872291c-e853-41d2-ac6c-2bad2539a274, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: jp2.ml.miao.rest}}
-  - {name: "🇭🇰 [Free] Hong Kong - 01", server: hk10.holiganfan.com, port: 10088, type: trojan, password: d58af002-1ddb-4c5c-8a31-2f907fe954e7, sni: hk10.holiganfan.com}
-  - {name: 🇯🇵 日本4-V2Ray, server: jp04-vm0.ikuuu.casa, port: 444, type: vmess, uuid: c7972514-ff6b-36bd-bcbd-2267320a7030, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: jp04-vm0.ikuuu.casa}}
-  - {name: 🇭🇰 香港6-V2Ray, server: hk06-vm0.ikuuu.casa, port: 444, type: vmess, uuid: c7972514-ff6b-36bd-bcbd-2267320a7030, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: hk06-vm0.ikuuu.casa}}
-  - {name: 🇭🇰 香港7-V2Ray, server: hk07-vm0.ikuuu.casa, port: 444, type: vmess, uuid: c7972514-ff6b-36bd-bcbd-2267320a7030, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: hk07-vm0.ikuuu.casa}}
-  - {name: bulink 网友分享线路 15 三网, server: la3.us.365563.xyz, port: 80, type: vmess, uuid: c2ba6dd4-05c0-4de6-8fd8-b5faaeb20dc0, alterId: 0, cipher: auto, tls: false}
-  - {name: bulink 网友分享线路 16 三网, server: la4.us.365563.xyz, port: 80, type: vmess, uuid: c2ba6dd4-05c0-4de6-8fd8-b5faaeb20dc0, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇲 C-美国|INAP|流媒体|免费1, server: zzlt.flyss.link, port: 10023, type: ss, cipher: aes-256-gcm, password: 6badc68a-a0d1-4f36-b561-23ebdaa25e4e}
-  - {name: 🇺🇲 C-美国|INAP|流媒体|免费2, server: zzlt.flyss.link, port: 10024, type: ss, cipher: aes-256-gcm, password: 6badc68a-a0d1-4f36-b561-23ebdaa25e4e}
-  - {name: 🇫🇷 香港-2 FREE, server: superstar.hk.02.free.srayx.xyz, port: 23002, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0036b8-6dbf-4114-8787-77c6e627d243}
+  - {name: 🇭🇰 香港01丨极速丨微软隧道, server: wr.naigai.one, port: 55790, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hkzl.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇭🇰 香港02丨极速丨微软隧道, server: hk06.bot666.xyz, port: 443, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk06.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇭🇰 香港03丨高速丨微软隧道, server: wr.naigai.one, port: 9999, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk04.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇭🇰 香港04丨极速丨微软隧道, server: wr.naigai.one, port: 9961, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk4.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇭🇰 香港05丨极速丨微软隧道, server: wr2.naigai.one, port: 3338, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hk5.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇹🇼 台湾01丨解锁丨微软隧道, server: wr.naigai.one, port: 33897, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: tw01.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇮🇳 印度01丨解锁丨微软隧道, server: wr.naigai.one, port: 30015, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: in01.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇮🇳 印度02丨极速丨微软隧道, server: wr.naigai.one, port: 36556, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: in02.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇺🇸 美国01丨解锁丨微软隧道, server: wr.naigai.one, port: 33894, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: us01.naigai.one, skip-cert-verify: false}
+  - {name: 🇺🇸 美国02丨极速丨微软隧道, server: wr.naigai.one, port: 36553, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: us02.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇬🇧 英国01丨极速丨微软隧道, server: wr.naigai.one, port: 36554, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: uk01.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇩🇪 德国01丨极速丨微软隧道, server: wr.naigai.one, port: 36555, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: de01.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇯🇵 日本01丨高速丨微软隧道, server: wr2.naigai.one, port: 43897, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: jp07.naigai.one, skip-cert-verify: false}
+  - {name: 🇯🇵 日本02丨解锁丨微软隧道, server: wr2.naigai.one, port: 33896, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: jp03.naigai.one, skip-cert-verify: false}
+  - {name: 🇰🇷 韩国01丨解锁丨微软隧道, server: wr2.naigai.one, port: 33671, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: kr03.naigai.one, skip-cert-verify: false}
+  - {name: 🇳🇱 荷兰01丨极速丨微软隧道, server: wr2.naigai.one, port: 36558, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: hl.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡01丨解锁丨微软隧道, server: wr2.naigai.one, port: 33891, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg01.naigai.one, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡02丨解锁丨微软隧道, server: wr2.naigai.one, port: 30011, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg04.naigai.one, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡03丨解锁丨微软隧道, server: wr2.naigai.one, port: 30012, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg05.naigai.one, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡04丨极速丨微软隧道, server: wr2.naigai.one, port: 36551, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg04.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡05丨极速丨微软隧道, server: wr2.naigai.one, port: 36552, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: sg05.bot666.xyz, skip-cert-verify: false}
+  - {name: 🇨🇦 加拿大01丨极速丨微软隧道, server: wr2.naigai.one, port: 5559, type: trojan, password: bc9c2188-ecd7-475e-ac65-3bfbbacecf6c, sni: jnd.bot666.xyz, skip-cert-verify: false}
